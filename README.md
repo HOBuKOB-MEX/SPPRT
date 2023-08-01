@@ -6,7 +6,7 @@ Currently, only the model of binary responses (sampling from a Bernoulli populat
 
 The detailed description of the method and algorithms can be found in
 
-[*Andrey Novikov. Group sequential hypothesis tests with variable group sizes: optimal design and performance evaluation, 2023. Communications in Statistics - Theory and Methods, to appear*](https://arxiv.org/abs/2210.07203)
+[*Andrey Novikov. Group sequential hypothesis tests with variable group sizes: optimal design and performance evaluation, 2023. Communications in Statistics - Theory and Methods, DOI:  10.1080/03610926.2023.2231155*](https://www.tandfonline.com/doi/abs/10.1080/03610926.2023.2231155?journalCode=lsta20)
 
 ## Content description
 * The file [SPPRT.R](SPPRT.R) contains all the functions providing the  user interface for all the tasks.
